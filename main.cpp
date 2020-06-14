@@ -13,13 +13,14 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
     std::cout << "Main func:" << std::endl;
     
     arrayDescription();
     stringDesc();
     pointreDesc();
     referDesc();
-    
+    Object::Person person("Grant", 29);
+    cout << "Name:" << person.getName() << ", Age:" << person.getAge() << endl;
+
     return 0;
 }

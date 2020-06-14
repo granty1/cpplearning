@@ -6,11 +6,45 @@
 
 #IncludeRegexTransform: 
 
-/Users/Grant/CPP/start/object.cpp
+/Users/Grant/CPP/start/array.hpp
+stdio.h
+-
+
+/Users/Grant/CPP/start/main.cpp
+iostream
+-
+array.hpp
+/Users/Grant/CPP/start/array.hpp
+stirng.hpp
+/Users/Grant/CPP/start/stirng.hpp
+pointer.hpp
+/Users/Grant/CPP/start/pointer.hpp
+refer.hpp
+/Users/Grant/CPP/start/refer.hpp
 object.hpp
 /Users/Grant/CPP/start/object.hpp
 
+/Users/Grant/CPP/start/object.cpp
+object.hpp
 /Users/Grant/CPP/start/object.hpp
+iostream
+-
+
+/Users/Grant/CPP/start/object.hpp
+stdio.h
+-
+string
+-
+
+/Users/Grant/CPP/start/pointer.hpp
+stdio.h
+-
+
+/Users/Grant/CPP/start/refer.hpp
+stdio.h
+-
+
+/Users/Grant/CPP/start/stirng.hpp
 stdio.h
 -
 
