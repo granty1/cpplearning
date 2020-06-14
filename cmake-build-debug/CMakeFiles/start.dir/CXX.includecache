@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Grant/CPP/start/object.cpp
+object.hpp
+/Users/Grant/CPP/start/object.hpp
+
+/Users/Grant/CPP/start/object.hpp
+stdio.h
+-
+
